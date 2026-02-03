@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\hobbies.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:submission\\views\\hobbies.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\home.html",
+              "RelativeDocumentMoniker": "home.html",
+              "ToolTip": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\home.html",
+              "RelativeToolTip": "home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-03T02:21:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwCwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-03T01:46:51.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "resume.html",
               "DocumentMoniker": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\resume.html",
               "RelativeDocumentMoniker": "submission\\views\\resume.html",
               "ToolTip": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\resume.html",
               "RelativeToolTip": "submission\\views\\resume.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-03T01:46:49.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "projects.html",
               "DocumentMoniker": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\projects.html",
               "RelativeDocumentMoniker": "submission\\views\\projects.html",
               "ToolTip": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\projects.html",
               "RelativeToolTip": "submission\\views\\projects.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-03T01:46:49.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "hobbies.html",
               "DocumentMoniker": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\hobbies.html",
               "RelativeDocumentMoniker": "submission\\views\\hobbies.html",
               "ToolTip": "C:\\Users\\Sepio\\OneDrive\\Documents\\college\\SWDEV\\lab-3Website\\Lab3Website\\submission\\views\\hobbies.html",
               "RelativeToolTip": "submission\\views\\hobbies.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-03T01:46:48.384Z",
               "EditorCaption": ""
